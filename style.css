@@ -1,4 +1,4 @@
-/* Base Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +10,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(to bottom right, #e8f5e9, #fffde7);
+ background-image: url('https://www.bing.com/th/id/OIP.hYcVyOL6qrWR4MK94EIokgHaHa?w=189&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   color: #333;
   line-height: 1.6;
 }
@@ -212,4 +215,5 @@ footer {
   .nav-links li {
     margin: 1rem 0;
   }
+
 }
